@@ -1,23 +1,16 @@
-# [Tu Nombre]
+# Brais Calvo
 
 ![Imagen o Logo](link-a-imagen)
 
-## 👋 Sobre Mí
-🔭 Actualmente trabajo en [Nombre de la Empresa] como [Tu Rol].
-🌱 Aprendiendo [Nuevas Tecnologías o Habilidades].
-👯 Busco colaborar en [Tipo de Proyectos].
-🤔 Busco ayuda con [Áreas donde buscas apoyo].
+## 👋 Frontend Developer -  HTML, CSS, JavaScript, TypeScript, ReactJS, NextJS
+🔭 Actualmente trabajo en TheHist como Frontend Developer.
+🌱 Aprendiendo Backend .
 💬 Pregúntame sobre [Temas de tu expertise].
-📫 Cómo contactarme: [Correo Electrónico].
-😄 Pronombres: [Tus pronombres].
-⚡ Dato curioso: [Algo interesante sobre ti].
+📫 Cómo contactarme: braiscs97@gmail.com.
 
 ## 🚀 Mis Proyectos
 - [Nombre del Proyecto](link-al-repositorio) - Breve descripción del proyecto.
 - [Otro Proyecto](link-al-repositorio) - Descripción.
-
-## 📊 Estadísticas de GitHub
-![Tus Estadísticas de GitHub](link-a-tu-estadística-de-GitHub)
 
 ## 🛠 Habilidades
 - **Lenguajes de Programación:** Python, JavaScript, etc.
