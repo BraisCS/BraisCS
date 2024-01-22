@@ -1,6 +1,7 @@
 # Brais Calvo
 
-[FotoBrais](https://github.com/BraisCS/BraisCS/assets/118271471/357cc30b-5e05-4157-8e1d-01ce6974a492)
+![FotoBrais](https://github.com/BraisCS/BraisCS/assets/118271471/357cc30b-5e05-4157-8e1d-01ce6974a492)
+
 
 
 ## 👋 Frontend Developer -  HTML, CSS, JavaScript, TypeScript, ReactJS, NextJS.
