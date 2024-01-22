@@ -1,4 +1,4 @@
-#  <img src="https://github.com/BraisCS/BraisCS/assets/118271471/357cc30b-5e05-4157-8e1d-01ce6974a492" object="cover" width="90" height="150" alt="FotoBrais"> Brais Calvo 
+# Brais Calvo 
 
 ## 👋 Frontend Developer -  HTML, CSS, JavaScript, TypeScript, ReactJS, NextJS.
 🔭 Actualmente trabajo en TheHist como Frontend Developer.
